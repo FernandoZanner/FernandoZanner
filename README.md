@@ -56,7 +56,7 @@ class Me
                       ] );
   }
   
-  private function setSkill(string|array $skill)
+  private function setSkill(string|array $skill) : void
   {
       if ( is_array($skill) )
           $this->skills = array_merge( $this->skills, $skill);
