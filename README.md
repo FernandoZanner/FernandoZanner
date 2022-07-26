@@ -10,6 +10,10 @@
 
 ## 🏋 About Me
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Always+learning+new+things!;Lover+IT!&font=Fira%20Code&center=true&width=380&height=50">
+</p>
+
 ```php
 <?php
 namespace WhoIAm;
@@ -144,13 +148,13 @@ My best regards.
 <div align="center">
 
   <div>
-    <img alt="Fernando Zanner Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=FernandoZanner&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=FFFFFF&sideLabels=0078D4&currStreakLabel=0078D4&stroke=0078D4&ring=0078D4" />
+    <img alt="Fernando Zanner Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoZanner&theme=hacker&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&dates=FFFFFF" />
   </div>
 
   <hr/>
 
   <div>
-    <img alt="Fernando Zanner Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=FernandoZanner&bg_color=0D1117&color=0078D4&line=FFFFFF&point=0078D4&hide_border=true" />
+    <img alt="Fernando Zanner Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=FernandoZanner&theme=hacker&hide_border=false" />
   <div>
 
 </div>
