@@ -3,15 +3,15 @@
 </h1>
 
 <p align="center">   
-  <a href="mailto:fernandozanner@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0078D4"></a>
-  <a href="https://www.linkedin.com/in/fernandozanner/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0078D4"></a>
+  <a href="mailto:fernandozanner@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=20C20E"></a>
+  <a href="https://www.linkedin.com/in/fernandozanner/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=20C20E"></a>
     <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
 </p>
 
 ## 🏋 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Always+learning+new+things!;Lover+IT!&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Always+learning+new+things!;Lover+IT!&font=Fira%20Code&center=true&width=380&height=50&color=20C20E">
 </p>
 
 ```php
@@ -153,8 +153,8 @@ My best regards.
 
   <hr/>
 
-  <div>
-    <img alt="Fernando Zanner Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=FernandoZanner&theme=hacker&hide_border=false" />
+  <div><!-- [Ashutosh's github activity graph] -->
+    <img alt="Fernando Zanner Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=FernandoZanner&bg_color=000000&color=ffffff&line=188b09&point=20c20e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
   <div>
 
 </div>
